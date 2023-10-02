@@ -1,0 +1,12 @@
+(librepcb_library 63c039d9-627f-4ec9-8582-1dc442d62dfe
+ (name "Littelfuse")
+ (description "Circuit protection devices and more (unofficial).")
+ (keywords "")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2023-10-02T08:47:43Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Littelfuse.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+ (manufacturer "Littelfuse Inc.")
+)
