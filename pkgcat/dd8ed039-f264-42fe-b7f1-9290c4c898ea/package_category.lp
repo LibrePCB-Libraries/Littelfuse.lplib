@@ -1,0 +1,10 @@
+(librepcb_package_category dd8ed039-f264-42fe-b7f1-9290c4c898ea
+ (name "Littelfuse")
+ (description "Custom packages by Littelfuse.")
+ (keywords "")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2023-10-02T08:59:06Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
